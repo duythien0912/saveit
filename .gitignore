@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editors / IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Agent workspace
+.scratch/
+.claude/settings.local.json
+.pi/settings.local.json
+*.local.json
+.env
+.env.*
+!.env.example
+
+# Logs & temp
+*.log
+logs/
+tmp/
+.tmp/
+*.pid
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+Pods/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# OS / misc
+Thumbs.db
