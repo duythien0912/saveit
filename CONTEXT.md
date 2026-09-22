@@ -1,6 +1,6 @@
 # SaveIt
 
-SaveIt is a private, on-device record of a person's everyday actions. It starts with one-tap logging and may later help a person turn repeated behavior into reminders.
+SaveIt is a private, on-device record of a person's everyday actions. It starts with one-tap logging and offers explicit Reminder creation after each Check-in.
 
 ## Language
 

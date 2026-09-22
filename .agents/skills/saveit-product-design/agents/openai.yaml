@@ -1,0 +1,8 @@
+interface:
+  display_name: "SaveIt Product Design"
+  short_description: "Apply SaveIt flows and visual system"
+  brand_color: "#1267E8"
+  default_prompt: "Use $saveit-product-design to design or review this SaveIt UI change."
+
+policy:
+  allow_implicit_invocation: true
