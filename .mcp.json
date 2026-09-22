@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maestro": {
+      "command": "/Users/thiennd/.maestro/bin/maestro",
+      "args": ["mcp"]
+    }
+  }
+}
